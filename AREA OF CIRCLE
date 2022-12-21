@@ -1,0 +1,4 @@
+#area oif circle
+radius=1.1
+area=22/7*radius*radius
+print("The area of circle with radius of 1.1:",area)
